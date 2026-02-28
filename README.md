@@ -1,7 +1,7 @@
 # Autonomous WhatsApp AI Agent Using LangGraph
 
   
-A multimodal whatsApp assistant powered by a LangGraph agentic workflow. This project integrates persistent conversational memory via PostgreSQL, real-time messaging via FastAPI, Retrieval-Augmented Generation (RAG) for querying complex documents, and native multimodal processing for voice notes and images.
+A multimodal whatsapp assistant powered by a LangGraph agentic workflow. This project integrates persistent conversational memory via PostgreSQL, real-time messaging via FastAPI, Retrieval-Augmented Generation (RAG) for querying complex documents, and native multimodal processing for voice notes and images.
   
 ## System Architecture
 
