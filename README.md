@@ -68,7 +68,7 @@ To run this project, you will need free accounts and API keys from the following
 
 git clone https://github.com/Omar-Saeed-OASS/Multimodal-LangGraph-Whatsapp-Agent.git
 
-cd whatsapp-langgraph-agent
+cd Multimodal-LangGraph-Whatsapp-Agent
 
 ```
 
