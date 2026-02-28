@@ -66,7 +66,7 @@ To run this project, you will need free accounts and API keys from the following
 
 ```bash
 
-git clone [https://github.com/yourusername/whatsapp-langgraph-agent.git](https://github.com/yourusername/whatsapp-langgraph-agent.git)
+git clone https://github.com/yourusername/whatsapp-langgraph-agent.git
 
 cd whatsapp-langgraph-agent
 
